@@ -66,3 +66,5 @@ I den här uppgiften får du möjlighet att tillämpa dina kunskaper om **React*
 ✨ Lycka till med ditt Pokédex-projekt – fånga dem alla! ⚡🐉
 
 ---
+
+![]image(pokedex_design_start.png)
