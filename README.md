@@ -33,7 +33,7 @@ I den här uppgiften får du möjlighet att tillämpa dina kunskaper om **React*
 * Lista alla Pokémontyper (t.ex. Fire 🔥, Water 💧, Grass 🌱).
 * Klick på typ → visa alla Pokémon av den typen.
 
-### 🚫 404-sida (`/404.tsx`)
+### 🚫 404-sida (`/not-found.tsx`)
 
 * Anpassad sida för ogiltiga länkar, felaktiga API-anrop.
 
