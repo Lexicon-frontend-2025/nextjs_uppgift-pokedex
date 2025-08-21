@@ -67,4 +67,4 @@ I den här uppgiften får du möjlighet att tillämpa dina kunskaper om **React*
 
 ---
 
-![]image(pokedex_design_start.png)
+![image](pokedex_design_start.png)
