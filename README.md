@@ -61,6 +61,8 @@ I den här uppgiften får du möjlighet att tillämpa dina kunskaper om **React*
 
 * ⌛ **Async/Await:** Hantera API-anrop snyggt i serverkomponenter.
 
+* ⚛️ **Bolierplate:** Ni hittar en liten startkod till projektet [här](https://github.com/Lexicon-frontend-2025/nextjs_uppgift-pokedex--boilerplate)
+
 ---
 
 ✨ Lycka till med ditt Pokédex-projekt – fånga dem alla! ⚡🐉
