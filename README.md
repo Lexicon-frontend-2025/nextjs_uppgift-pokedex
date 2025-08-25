@@ -22,7 +22,7 @@ I den här uppgiften får du möjlighet att tillämpa dina kunskaper om **React*
 * Visa en **Featured-sektion** med fyra slumpmässigt utvalda Pokémon.
 * Möjlighet att slumpa fram en **enskild Pokémon** med knapptryck.
 
-### 🔍 Söksida (`/search`)
+### 🔍 Söksida (`/search`) (sökningen finns på startsidan, men leder till resultat på en annan sida.
 
 * Sökfält för att skriva in Pokémon-namn.
 * Visa detaljer om den Pokémonen vid sökning.
